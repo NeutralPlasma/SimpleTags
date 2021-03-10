@@ -1,0 +1,5 @@
+tags:
+  example: # Tole je ime tag-a za configuration...
+    description: "Become an example" # Description tag-a
+    tag: "&8[&bExample&8]" # Dejanski tag
+    permission: "example" # Permission za tag simpletags.tag.<permission>

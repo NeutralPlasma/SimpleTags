@@ -1,0 +1,12 @@
+name: SimpleTags
+main: eu.virtusdevelops.simpletags.SimpleTags
+version: @version@
+api-version: 1.13
+
+depend:
+- PlaceholderAPI
+
+commands:
+    tags:
+        description: "Tags command"
+        permission: "simpletags.tagscommand"

@@ -1,0 +1,34 @@
+# HEX support ;) par stvari še je kot Rainbow pa gradient
+#
+# <r>, <r:1.0> (1.0 intensiti od 0 do 1.0)
+# <gradient:#FFFFFF:#000000>, gre tud sam z g torej <g:color1:color2>
+#
+
+
+lang:
+  iconname: "{TAG}"
+  iconlore:
+    - "&bClick to select"
+    - "{DESC}"
+  current: "{TAG}"
+  currentlore: "<r:0.5>Currently selected"
+  reload: "&bReloaded configuration files"
+  noperm: "&cNo permission to execute this command"
+
+  removedtag: "&aSuccessfully reset your tag."
+  settag: "&aSuccessfully updated your tag."
+
+  gui:
+    title: "&bTags menu"
+    next: "&bClick to go to next page"
+    nextlore:
+      - ""
+    prev: "&bClick to go to previous page"
+    prevlore:
+      - ""
+    close: "&cClick to close"
+    current: "{TAG}"
+    currentlore:
+      - "<r:0.5>This is your current tag"
+      - "{DESC}"
+      - "&cClick to reset"
